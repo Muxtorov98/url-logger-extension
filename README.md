@@ -12,3 +12,7 @@
 - `BOT_TOKEN` ni @BotFather orqali olishingiz mumkin.
 - `CHAT_ID` ni olish uchun botingizga `/start` yozing, keyin quyidagi URL'ni oching:  
   `https://api.telegram.org/bot<YOUR_BOT_TOKEN>/getUpdates`
+
+## Icon haqida
+- Extension uchun `icons/` papkasi bo‘lishi kerak.
+- Papkada quyidagi fayllar bo‘lishi kerak:

