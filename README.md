@@ -16,3 +16,8 @@
 ## Icon haqida
 - Extension uchun `icons/` papkasi bo‘lishi kerak.
 - Papkada quyidagi fayllar bo‘lishi kerak:
+  
+icons/
+├── icon16.png
+├── icon48.png
+└── icon128.png
