@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "URL Logger to Telegram",
+  "description": "Har bir kirgan URL'ni Telegram botga yuboradi",
+  "version": "1.0",
+  "permissions": ["tabs"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
